@@ -10,5 +10,4 @@
 ## GitHub 
 -  is web site/server which the git files is hosted on.
 - the files will be stored in folder called '' repository''.
-- 
 
